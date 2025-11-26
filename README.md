@@ -8,3 +8,5 @@ Parts of a webpage:
     -   HTML - Basic Structure / Layout
     -   CSS - Styling
     -   JS - Logic
+Default Display Types:
+    -   Display Block - Element will fill all horizontal space of container
