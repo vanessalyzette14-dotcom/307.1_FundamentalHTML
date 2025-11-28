@@ -10,3 +10,6 @@ Parts of a webpage:
     -   JS - Logic
 Default Display Types:
     -   Display Block - Element will fill all horizontal space of container
+    -   Display Inline - Appear inside block elements and DO NOT create a new line
+
+    - Void Elements - are tags that dont need a closing tag, although you should use a forwars slash even though not required.
